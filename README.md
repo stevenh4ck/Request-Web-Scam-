@@ -9,4 +9,6 @@ request V1.0 Open Power 50%
 # Ip Sanner 
 - Git Clone
 - ls
-- -python 
+- python scan web ip.py
+  
+# Devloper Steven
